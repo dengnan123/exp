@@ -1,0 +1,19 @@
+# npm
+package-lock.json
+node_modules
+.out
+*zip-dist
+*.zip
+
+# umi
+.umi
+.umi-production
+dist
+meeting-installer-zip-dist*
+
+# log
+logs
+
+# tmp
+sysconfig.json
+deploysh
