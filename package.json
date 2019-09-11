@@ -1,0 +1,22 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "仿nest风格的express框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengnan123/exp.git"
+  },
+  "author": "dany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengnan123/exp/issues"
+  },
+  "homepage": "https://github.com/dengnan123/exp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
